@@ -11,7 +11,7 @@
 <body>
     <div class="cabec">
       <img class="cabec-img" src="avatar-removebg-preview.png">
-      <p class="cabec-texto1">Olá, meu nome é Natália! E estudo no colégio Civico Militar Vila Guaira</p>
+      <p class="cabec-texto1">Não perca essa oportunidade, garanta sua figurinha</p>
       <p class="cabec-texto2">Cívico - Trilha</p>
     </div>
     <div class="corpo">
